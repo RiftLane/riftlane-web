@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://riftlane.gg/sitemap.xml
+Sitemap: https://rl.itzdanti.dev/sitemap.xml
